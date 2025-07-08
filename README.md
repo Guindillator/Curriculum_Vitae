@@ -101,8 +101,7 @@ I'm a data scientist with over 10 years of experience solving complex problems w
 
 ---
 
-<!-- Optional: Generated illustration or avatar -->
 <p align="center">
-  <img src="https://generated-user-images.vercel.app/api/avatar?name=Mario+Prieto&background=gradient&rounded=true&fontSize=40&seed=ai" alt="Mario Avatar" width="150" />
+  <img src="./Mario_Tux.png" width="100" alt="Mario Avatar" />
 </p>
 
