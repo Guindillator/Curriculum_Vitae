@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Senior%20Data%20Scientist-AI%20&%20NLP%20Expert-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64," alt="Mario Prieto Banner" />
 </p>
 
-<h1 align="center">👋 Hi there, I'm Mario Prieto, Ph.D.</h1>
+<h1 align="center">👋 Hi there, I'm Mario P., Ph.D.</h1>
 
 <p align="center">
   <em>Senior Data Scientist · NLP Specialist · AI Advisor · Ph.D. in Text Mining</em>
