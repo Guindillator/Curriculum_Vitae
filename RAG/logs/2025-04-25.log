@@ -1,0 +1,422 @@
+2025-04-25 22:26:52 - INFO - Inicio
+
+2025-04-25 22:26:52 - INFO - 🚀 Iniciando pipeline de ingesta...
+2025-04-25 22:26:52 - INFO - 📥 Cargando PDFs desde 'data'...
+2025-04-25 22:26:53 - INFO - ✔️ data/3I2DH7KNN6KICUFNT6P4MKHUAPPBJD2Y.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:26:53 - INFO - ✔️ data/4F6ZJS2JPBXSPZK5FG5NMTRHS6NMWKOJ.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:26:53 - WARNING - The PDF <_io.BufferedReader name='data/2GFKZ3FSJWFKVKALUPEYHSLSHEJ3OGA6.pdf'> contains a metadata field indicating that it should not allow text extraction. Ignoring this field and proceeding. Use the check_extractable if you want to raise an error in this case
+2025-04-25 22:26:53 - INFO - ✔️ data/2GFKZ3FSJWFKVKALUPEYHSLSHEJ3OGA6.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:26:54 - INFO - ✔️ data/3XSJWLQUWUFRCZDJZ2RLJ6KMMDBJZG4D.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:26:54 - INFO - ✔️ data/3HATKPN6TVEYUNQ6PK5MYH6VA6VX6ECE.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:26:58 - INFO - ✔️ data/2Z5VOQ6G6CMR5GMVSAAXULXHXTMJPTM2.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:26:58 - INFO - ✔️ data/4ADSQBDDIAH74AABB7OJ4AP5ZVHU7QIF.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:26:59 - INFO - ✔️ data/2QCQAIXCPZZPZPEEBHJT4WUB5BA42DCP.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:26:59 - INFO - ✔️ data/2S672A3DIW3E7MHKG25AHSCC7GP5IWSS.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:26:59 - INFO - ✔️ data/3I3G2ZKLILXKCZTX77LVBWNF5IR2ZM7E.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:26:59 - INFO - ✔️ data/2XP6SY3BBU24ICI4JSHCLNQKAKGVMMPG.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:26:59 - INFO - ✔️ data/2XJLJAFHRTLAIWFDDAVMV2U4QJMISM4P.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:26:59 - INFO - ✔️ data/3PILGMQ4BBDRSLAPZCPVAHBNX53K2NUJ.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:00 - INFO - ✔️ data/1e8c2332a461a3a142840fa477fa907c66c35dac.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:00 - INFO - ✔️ data/3SX4ZUITX7U6NVFXAEJBBJXEQ76IJFKV.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:00 - INFO - ✔️ data/0a29925ccc5e6299e132a73325956a3abef6dd26.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:00 - INFO - ✔️ data/4C5BLCGBSAKXLBL674TCFLMNISKMFTF7.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:00 - INFO - ✔️ data/3EG2SKQ4OJ5RGGAPXC4LPRAYJJJNH2XO.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:02 - INFO - ✔️ data/2RE7KOL5KV5FFCUG6CYUVEFF4KIUZN2V.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:03 - INFO - ✔️ data/3OHZBJVNLM4IAL6GLY3AKUQIVCNLPJLO.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:16 - INFO - ✔️ data/2G54QACZZK5MIIKK25USTLNPN66FST63.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:16 - INFO - ✔️ data/3ZVA64MJREBJXFOQOIXK6WJVPBWFJF7L.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:16 - INFO - ✔️ data/0e21835a42a6df2405496f62647058ff855743c1.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:16 - INFO - ✔️ data/3KYS5FP4VPQMHQKSV6PY3UOXQILNMOPO.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:22 - INFO - ✔️ data/4BYJ3SJ7LQLUQONSHK7CN7NJFWKW62CX.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:22 - INFO - ✔️ data/2F73J4NP2YHKVISKHDIDJ7RGPDKTQZ7D.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:24 - WARNING - Cannot set gray non-stroke color because /'P1' is an invalid float value
+2025-04-25 22:27:28 - INFO - ✔️ data/3KF674T52XCSSWUXJN6WRXYXLXBCQI3P.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:28 - INFO - ✔️ data/2A2C2V4WI5YRDJHR26XUD4IAULIYGTMA.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:28 - WARNING - ⚠️ Error con data/2UD7BSKC7GT3V7I6DK5NH5TFKJ6F3EXL.pdf usando PDFMinerLoader: safe_rgb() missing 2 required positional arguments: 'g' and 'b'
+2025-04-25 22:27:28 - INFO - 🔁 Intentando cargar con PyMuPDFLoader...
+2025-04-25 22:27:28 - INFO - ✔️ data/2UD7BSKC7GT3V7I6DK5NH5TFKJ6F3EXL.pdf cargado con PyMuPDFLoader.
+2025-04-25 22:27:29 - INFO - ✔️ data/3RFOUAJS2LT6ZCT3K6C2SXFMNCJHTP5Q.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:29 - INFO - ✔️ data/2YS3ALM6OTD5ENWN4Z5LOBWG735756DX.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:29 - INFO - ✔️ data/1dcf57a5007b56254583423ba31107d22459bccf.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:29 - INFO - ✔️ data/3P5D3UKXU2R6I2TK4OJSLL6LGIQJ4NY5.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:30 - INFO - ✔️ data/2a85b52768ea5761b773be49b09d15f0b95415b0.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:30 - INFO - ✔️ data/3E6NFFOKDMQM3UXDKS73LAJGQXBVDXPE.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:30 - INFO - ✔️ data/2SFC5QHEHUKZAZANWGTNYNCLR6KHKDS2.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:30 - WARNING - Cannot set gray non-stroke color because /'P1' is an invalid float value
+2025-04-25 22:27:30 - WARNING - Cannot set gray non-stroke color because /'P2' is an invalid float value
+2025-04-25 22:27:30 - WARNING - Cannot set gray non-stroke color because /'P3' is an invalid float value
+2025-04-25 22:27:30 - WARNING - Cannot set gray non-stroke color because /'P4' is an invalid float value
+2025-04-25 22:27:30 - WARNING - Cannot set gray non-stroke color because /'P5' is an invalid float value
+2025-04-25 22:27:30 - WARNING - Cannot set gray non-stroke color because /'P6' is an invalid float value
+2025-04-25 22:27:30 - WARNING - Cannot set gray non-stroke color because /'P1' is an invalid float value
+2025-04-25 22:27:30 - WARNING - Cannot set gray non-stroke color because /'P2' is an invalid float value
+2025-04-25 22:27:30 - WARNING - Cannot set gray non-stroke color because /'P3' is an invalid float value
+2025-04-25 22:27:30 - WARNING - Cannot set gray non-stroke color because /'P4' is an invalid float value
+2025-04-25 22:27:30 - WARNING - Cannot set gray non-stroke color because /'P5' is an invalid float value
+2025-04-25 22:27:30 - WARNING - Cannot set gray non-stroke color because /'P6' is an invalid float value
+2025-04-25 22:27:30 - WARNING - Cannot set gray non-stroke color because /'P7' is an invalid float value
+2025-04-25 22:27:30 - WARNING - Cannot set gray non-stroke color because /'P8' is an invalid float value
+2025-04-25 22:27:30 - WARNING - Cannot set gray non-stroke color because /'P3' is an invalid float value
+2025-04-25 22:27:30 - WARNING - Cannot set gray non-stroke color because /'P2' is an invalid float value
+2025-04-25 22:27:30 - WARNING - Cannot set gray non-stroke color because /'P9' is an invalid float value
+2025-04-25 22:27:30 - WARNING - Cannot set gray non-stroke color because /'P10' is an invalid float value
+2025-04-25 22:27:30 - WARNING - Cannot set gray non-stroke color because /'P11' is an invalid float value
+2025-04-25 22:27:30 - WARNING - Cannot set gray non-stroke color because /'P5' is an invalid float value
+2025-04-25 22:27:33 - INFO - ✔️ data/3WVRGDKMXZRPVBBNRYOLXY3J3VIZROXI.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:33 - INFO - ✔️ data/2EDEPZ4VHTLPTWSZR6FAVUJ3B2ZVSIPS.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:33 - INFO - ✔️ data/2LVOKCURIEQKLK43I6T7QLYYQX3RQUXX.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:33 - INFO - ✔️ data/4GJOQXDXU2XKJOU5NUAAVWW7LS4LSYA7.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:34 - INFO - ✔️ data/4CWINULHRRVWF33LXZE4U5EEHETC2SI6.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:34 - INFO - ✔️ data/3IFL3YAHHYK5PMUEVWZZ2PHZ7TYPPTET.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:38 - INFO - ✔️ data/3RCHLDD2YCPDNLHEV4AVKEPBYJP5UBZB.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:27:38 - INFO - ✔️ data/2REYVBYLIEUNFBZ5FULJCPTJCZHNOENV.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:28:08 - INFO - ✔️ data/2FDPTMT2NZDE6RIJSZZXGBMD7LYL7YHV.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:28:08 - INFO - ✔️ data/2WE4HZPD57KVPL4RQKCB4PUG42SQ2RMJ.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:28:09 - INFO - ✔️ data/2ZJG56HD3YEZGEQZL4RFOYNIMTZISHDX.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:28:09 - INFO - ✔️ data/2ED27NR7CISW7J4PHXXBZ6OFPVDFHMFB.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:28:09 - INFO - ✔️ data/3fd6a0981cec7cf21e133249fea7e0e4474ec88d.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:28:09 - INFO - ✔️ data/2KH4X5DOMVDC44GAIAFOCYEKJMXGQH4T.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:28:09 - INFO - ✔️ data/3G2C6NNZ42WCE3GQ2SREVI2FQIJMQTVT.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:28:09 - INFO - ✔️ data/3HYJT3CPUFRXVQSY3IJIK5ERD4XWBDUQ.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:28:10 - INFO - ✔️ data/2c143c1675c174d0317c3a1f67b68b2b60047467.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:28:10 - INFO - ✔️ data/3KT2OE6FWFEQPKT754Z3YHJQ3XTLPQZS.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:28:10 - INFO - ✔️ data/2QWDF5JK4N7WQ4NQRZRLF4CYOUF32WTR.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:28:10 - INFO - ✔️ data/2KQDEYIMQDVT2DUARRCJV5HEUYY2HO7H.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:28:10 - INFO - ✔️ data/2KPPNYIT75S3H25JKEWTMQ7WRNCCTMJM.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:28:10 - INFO - ✔️ data/4ANUUHOJ7LTWU4PYON2VXJMPPUGDYWPD.pdf cargado con 1 páginas usando PDFMiner.
+2025-04-25 22:28:10 - INFO - ✂️ Dividiendo documentos en chunks...
+2025-04-25 22:28:10 - INFO - ✅ Total de chunks: 5935
+2025-04-25 22:28:10 - INFO - 🔍 Cargando modelo de embeddings: sentence-transformers/all-MiniLM-L6-v2
+2025-04-25 22:28:13 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2025-04-25 22:28:13 - DEBUG - Creating converter from 7 to 5
+2025-04-25 22:28:13 - DEBUG - Creating converter from 5 to 7
+2025-04-25 22:28:13 - DEBUG - Creating converter from 7 to 5
+2025-04-25 22:28:13 - DEBUG - Creating converter from 5 to 7
+2025-04-25 22:28:14 - INFO - Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 16.
+2025-04-25 22:28:14 - INFO - NumExpr defaulting to 16 threads.
+2025-04-25 22:28:15 - INFO - Use pytorch device_name: cuda:0
+2025-04-25 22:28:15 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-25 22:28:15 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-25 22:28:16 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-25 22:28:16 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2025-04-25 22:28:16 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2025-04-25 22:28:16 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-25 22:28:16 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2025-04-25 22:28:17 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/11" 404 0
+2025-04-25 22:28:17 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2025-04-25 22:28:17 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2025-04-25 22:28:17 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6766
+2025-04-25 22:28:18 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6766
+2025-04-25 22:28:18 - INFO - 🧠 Creando base vectorial en: db
+2025-04-25 22:28:18 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-25 22:28:18 - DEBUG - Starting component System
+2025-04-25 22:28:18 - DEBUG - Starting component Posthog
+2025-04-25 22:28:18 - DEBUG - Starting component OpenTelemetryClient
+2025-04-25 22:28:18 - DEBUG - Starting component SqliteDB
+2025-04-25 22:28:18 - DEBUG - Starting component SimpleQuotaEnforcer
+2025-04-25 22:28:18 - DEBUG - Starting component SimpleRateLimitEnforcer
+2025-04-25 22:28:18 - DEBUG - Starting component LocalSegmentManager
+2025-04-25 22:28:18 - DEBUG - Starting component LocalExecutor
+2025-04-25 22:28:18 - DEBUG - Starting component SegmentAPI
+2025-04-25 22:28:19 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2025-04-25 22:28:19 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2025-04-25 22:28:25 - DEBUG - Starting component PersistentLocalHnswSegment
+2025-04-25 22:28:28 - INFO - ✅ Base vectorial creada y guardada.
+2025-04-25 22:28:28 - INFO - 🎉 ¡Ingesta completada correctamente!
+2025-04-25 22:33:29 - INFO - 🚀 Iniciando carga...
+2025-04-25 22:33:29 - INFO - 🧠 Cargando base vectorial desde: /home/m/Escritorio/RAG/db
+2025-04-25 22:33:29 - INFO - Use pytorch device_name: cuda:0
+2025-04-25 22:33:29 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-25 22:33:29 - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-25 22:33:29 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-25 22:33:29 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2025-04-25 22:33:29 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2025-04-25 22:33:29 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-25 22:33:30 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2025-04-25 22:33:30 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/11" 404 0
+2025-04-25 22:33:30 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2025-04-25 22:33:30 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2025-04-25 22:33:30 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6766
+2025-04-25 22:33:30 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6766
+2025-04-25 22:33:31 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-25 22:33:31 - DEBUG - Starting component System
+2025-04-25 22:33:31 - DEBUG - Starting component Posthog
+2025-04-25 22:33:31 - DEBUG - Starting component OpenTelemetryClient
+2025-04-25 22:33:31 - DEBUG - Starting component SqliteDB
+2025-04-25 22:33:31 - DEBUG - Starting component SimpleQuotaEnforcer
+2025-04-25 22:33:31 - DEBUG - Starting component SimpleRateLimitEnforcer
+2025-04-25 22:33:31 - DEBUG - Starting component LocalSegmentManager
+2025-04-25 22:33:31 - DEBUG - Starting component LocalExecutor
+2025-04-25 22:33:31 - DEBUG - Starting component SegmentAPI
+2025-04-25 22:33:31 - DEBUG - Collection langchain already exists, returning existing collection.
+2025-04-25 22:33:31 - INFO - ✅ Base vectorial cargada correctamente.
+2025-04-25 22:33:31 - DEBUG - Resetting dropped connection: us.i.posthog.com
+2025-04-25 22:33:31 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2025-04-25 22:35:00 - INFO - 🚀 Iniciando consulta...
+2025-04-25 22:35:04 - INFO - 🔍 Buscando en la base vectorial...
+2025-04-25 22:35:04 - DEBUG - Starting component PersistentLocalHnswSegment
+2025-04-25 22:35:04 - INFO - ✅ Resultados encontrados, creando prompt para LLM...
+2025-04-25 22:35:04 - DEBUG - Starting new HTTP connection (1): localhost:11434
+2025-04-25 22:35:04 - ERROR - ❌ Error en la consulta LLM: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x75736c32b400>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-25 22:35:04 - INFO - Respuesta del modelo:
+Hubo un error procesando tu consulta.
+2025-04-25 22:35:05 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2025-04-25 22:38:06 - INFO - 🚀 Iniciando carga...
+2025-04-25 22:38:06 - INFO - 🧠 Cargando base vectorial desde: /home/m/Escritorio/RAG/db
+2025-04-25 22:38:09 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2025-04-25 22:38:09 - DEBUG - Creating converter from 7 to 5
+2025-04-25 22:38:09 - DEBUG - Creating converter from 5 to 7
+2025-04-25 22:38:09 - DEBUG - Creating converter from 7 to 5
+2025-04-25 22:38:09 - DEBUG - Creating converter from 5 to 7
+2025-04-25 22:38:10 - INFO - Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 16.
+2025-04-25 22:38:10 - INFO - NumExpr defaulting to 16 threads.
+2025-04-25 22:38:11 - INFO - Use pytorch device_name: cuda:0
+2025-04-25 22:38:11 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-25 22:38:11 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-25 22:38:12 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-25 22:38:12 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2025-04-25 22:38:12 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2025-04-25 22:38:12 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-25 22:38:13 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2025-04-25 22:38:13 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/11" 404 0
+2025-04-25 22:38:13 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2025-04-25 22:38:13 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2025-04-25 22:38:13 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6766
+2025-04-25 22:38:14 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6766
+2025-04-25 22:38:14 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-25 22:38:14 - DEBUG - Starting component System
+2025-04-25 22:38:14 - DEBUG - Starting component Posthog
+2025-04-25 22:38:14 - DEBUG - Starting component OpenTelemetryClient
+2025-04-25 22:38:14 - DEBUG - Starting component SqliteDB
+2025-04-25 22:38:14 - DEBUG - Starting component SimpleQuotaEnforcer
+2025-04-25 22:38:14 - DEBUG - Starting component SimpleRateLimitEnforcer
+2025-04-25 22:38:14 - DEBUG - Starting component LocalSegmentManager
+2025-04-25 22:38:14 - DEBUG - Starting component LocalExecutor
+2025-04-25 22:38:14 - DEBUG - Starting component SegmentAPI
+2025-04-25 22:38:14 - DEBUG - Collection langchain already exists, returning existing collection.
+2025-04-25 22:38:14 - INFO - ✅ Base vectorial cargada correctamente.
+2025-04-25 22:38:14 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2025-04-25 22:38:15 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2025-04-25 22:38:19 - INFO - 🚀 Iniciando consulta...
+2025-04-25 22:38:21 - INFO - 🔍 Buscando en la base vectorial...
+2025-04-25 22:38:21 - DEBUG - Starting component PersistentLocalHnswSegment
+2025-04-25 22:38:21 - INFO - ✅ Resultados encontrados, creando prompt para LLM...
+2025-04-25 22:38:21 - DEBUG - Starting new HTTP connection (1): localhost:11434
+2025-04-25 22:38:21 - ERROR - ❌ Error en la consulta LLM: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x78fcb4fadc90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-25 22:38:21 - INFO - Respuesta del modelo:
+Hubo un error procesando tu consulta.
+2025-04-25 22:38:22 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2025-04-25 22:41:00 - INFO - 🚀 Iniciando carga...
+2025-04-25 22:41:00 - INFO - 🧠 Cargando base vectorial desde: /home/m/Escritorio/RAG/db
+2025-04-25 22:41:03 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2025-04-25 22:41:03 - DEBUG - Creating converter from 7 to 5
+2025-04-25 22:41:03 - DEBUG - Creating converter from 5 to 7
+2025-04-25 22:41:03 - DEBUG - Creating converter from 7 to 5
+2025-04-25 22:41:03 - DEBUG - Creating converter from 5 to 7
+2025-04-25 22:41:03 - INFO - Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 16.
+2025-04-25 22:41:03 - INFO - NumExpr defaulting to 16 threads.
+2025-04-25 22:41:04 - INFO - Use pytorch device_name: cuda:0
+2025-04-25 22:41:04 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-25 22:41:04 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-25 22:41:04 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-25 22:41:04 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2025-04-25 22:41:04 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2025-04-25 22:41:04 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-25 22:41:04 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2025-04-25 22:41:05 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/11" 404 0
+2025-04-25 22:41:05 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2025-04-25 22:41:05 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2025-04-25 22:41:05 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6766
+2025-04-25 22:41:05 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6766
+2025-04-25 22:41:05 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-25 22:41:05 - DEBUG - Starting component System
+2025-04-25 22:41:05 - DEBUG - Starting component Posthog
+2025-04-25 22:41:05 - DEBUG - Starting component OpenTelemetryClient
+2025-04-25 22:41:05 - DEBUG - Starting component SqliteDB
+2025-04-25 22:41:05 - DEBUG - Starting component SimpleQuotaEnforcer
+2025-04-25 22:41:05 - DEBUG - Starting component SimpleRateLimitEnforcer
+2025-04-25 22:41:05 - DEBUG - Starting component LocalSegmentManager
+2025-04-25 22:41:05 - DEBUG - Starting component LocalExecutor
+2025-04-25 22:41:05 - DEBUG - Starting component SegmentAPI
+2025-04-25 22:41:06 - DEBUG - Collection langchain already exists, returning existing collection.
+2025-04-25 22:41:06 - INFO - ✅ Base vectorial cargada correctamente.
+2025-04-25 22:41:06 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2025-04-25 22:41:06 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2025-04-25 22:42:36 - INFO - 🚀 Iniciando carga...
+2025-04-25 22:42:36 - INFO - 🧠 Cargando base vectorial desde: /home/m/Escritorio/RAG/db
+2025-04-25 22:42:39 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2025-04-25 22:42:39 - DEBUG - Creating converter from 7 to 5
+2025-04-25 22:42:39 - DEBUG - Creating converter from 5 to 7
+2025-04-25 22:42:39 - DEBUG - Creating converter from 7 to 5
+2025-04-25 22:42:39 - DEBUG - Creating converter from 5 to 7
+2025-04-25 22:42:40 - INFO - Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 16.
+2025-04-25 22:42:40 - INFO - NumExpr defaulting to 16 threads.
+2025-04-25 22:42:40 - INFO - Use pytorch device_name: cuda:0
+2025-04-25 22:42:40 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-25 22:42:40 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-25 22:42:40 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-25 22:42:40 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2025-04-25 22:42:41 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2025-04-25 22:42:41 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-25 22:42:41 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2025-04-25 22:42:41 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/11" 404 0
+2025-04-25 22:42:42 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2025-04-25 22:42:42 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2025-04-25 22:42:42 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6766
+2025-04-25 22:42:42 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6766
+2025-04-25 22:42:43 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-25 22:42:43 - DEBUG - Starting component System
+2025-04-25 22:42:43 - DEBUG - Starting component Posthog
+2025-04-25 22:42:43 - DEBUG - Starting component OpenTelemetryClient
+2025-04-25 22:42:43 - DEBUG - Starting component SqliteDB
+2025-04-25 22:42:43 - DEBUG - Starting component SimpleQuotaEnforcer
+2025-04-25 22:42:43 - DEBUG - Starting component SimpleRateLimitEnforcer
+2025-04-25 22:42:43 - DEBUG - Starting component LocalSegmentManager
+2025-04-25 22:42:43 - DEBUG - Starting component LocalExecutor
+2025-04-25 22:42:43 - DEBUG - Starting component SegmentAPI
+2025-04-25 22:42:43 - DEBUG - Collection langchain already exists, returning existing collection.
+2025-04-25 22:42:43 - INFO - ✅ Base vectorial cargada correctamente.
+2025-04-25 22:42:43 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2025-04-25 22:42:43 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2025-04-25 22:42:44 - INFO - 🚀 Iniciando consulta...
+2025-04-25 22:42:46 - INFO - 🔍 Buscando en la base vectorial...
+2025-04-25 22:42:46 - DEBUG - Starting component PersistentLocalHnswSegment
+2025-04-25 22:42:46 - INFO - ✅ Resultados encontrados, creando prompt para LLM...
+2025-04-25 22:42:46 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-04-25 22:42:46 - DEBUG - load_verify_locations cafile='/home/m/.local/lib/python3.10/site-packages/certifi/cacert.pem'
+2025-04-25 22:42:46 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-04-25 22:42:46 - DEBUG - load_verify_locations cafile='/home/m/.local/lib/python3.10/site-packages/certifi/cacert.pem'
+2025-04-25 22:42:46 - DEBUG - connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-04-25 22:42:46 - DEBUG - connect_tcp.failed exception=ConnectError(ConnectionRefusedError(111, 'Connection refused'))
+2025-04-25 22:42:46 - ERROR - ❌ Error en la consulta LLM: [Errno 111] Connection refused
+2025-04-25 22:42:46 - INFO - Respuesta del modelo:
+Hubo un error procesando tu consulta.
+2025-04-25 22:42:47 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2025-04-25 22:47:54 - INFO - 🚀 Iniciando consulta...
+2025-04-25 22:47:56 - INFO - 🔍 Buscando en la base vectorial...
+2025-04-25 22:47:56 - INFO - ✅ Resultados encontrados, creando prompt para LLM...
+2025-04-25 22:47:56 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-04-25 22:47:56 - DEBUG - load_verify_locations cafile='/home/m/.local/lib/python3.10/site-packages/certifi/cacert.pem'
+2025-04-25 22:47:56 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-04-25 22:47:56 - DEBUG - load_verify_locations cafile='/home/m/.local/lib/python3.10/site-packages/certifi/cacert.pem'
+2025-04-25 22:47:56 - DEBUG - connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-04-25 22:47:56 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x71c2079e8460>
+2025-04-25 22:47:56 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-04-25 22:47:56 - DEBUG - send_request_headers.complete
+2025-04-25 22:47:56 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-04-25 22:47:56 - DEBUG - send_request_body.complete
+2025-04-25 22:47:56 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-04-25 22:47:56 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 404, b'Not Found', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Fri, 25 Apr 2025 20:47:56 GMT'), (b'Content-Length', b'37')])
+2025-04-25 22:47:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 404 Not Found"
+2025-04-25 22:47:56 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-04-25 22:47:56 - DEBUG - receive_response_body.complete
+2025-04-25 22:47:56 - DEBUG - response_closed.started
+2025-04-25 22:47:56 - DEBUG - response_closed.complete
+2025-04-25 22:47:56 - ERROR - ❌ Error en la consulta LLM: model 'mistral' not found (status code: 404)
+2025-04-25 22:47:56 - INFO - Respuesta del modelo:
+Hubo un error procesando tu consulta.
+2025-04-25 22:48:14 - INFO - 🚀 Iniciando carga...
+2025-04-25 22:48:14 - INFO - 🧠 Cargando base vectorial desde: /home/m/Escritorio/RAG/db
+2025-04-25 22:48:19 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2025-04-25 22:48:19 - DEBUG - Creating converter from 7 to 5
+2025-04-25 22:48:19 - DEBUG - Creating converter from 5 to 7
+2025-04-25 22:48:19 - DEBUG - Creating converter from 7 to 5
+2025-04-25 22:48:19 - DEBUG - Creating converter from 5 to 7
+2025-04-25 22:48:19 - INFO - Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 16.
+2025-04-25 22:48:19 - INFO - NumExpr defaulting to 16 threads.
+2025-04-25 22:48:20 - INFO - Use pytorch device_name: cuda:0
+2025-04-25 22:48:20 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-25 22:48:20 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-25 22:48:20 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-25 22:48:21 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2025-04-25 22:48:21 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2025-04-25 22:48:21 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-25 22:48:21 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2025-04-25 22:48:22 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/11" 404 0
+2025-04-25 22:48:22 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2025-04-25 22:48:22 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2025-04-25 22:48:22 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6766
+2025-04-25 22:48:23 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6766
+2025-04-25 22:48:23 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-25 22:48:23 - DEBUG - Starting component System
+2025-04-25 22:48:23 - DEBUG - Starting component Posthog
+2025-04-25 22:48:23 - DEBUG - Starting component OpenTelemetryClient
+2025-04-25 22:48:23 - DEBUG - Starting component SqliteDB
+2025-04-25 22:48:23 - DEBUG - Starting component SimpleQuotaEnforcer
+2025-04-25 22:48:23 - DEBUG - Starting component SimpleRateLimitEnforcer
+2025-04-25 22:48:23 - DEBUG - Starting component LocalSegmentManager
+2025-04-25 22:48:23 - DEBUG - Starting component LocalExecutor
+2025-04-25 22:48:23 - DEBUG - Starting component SegmentAPI
+2025-04-25 22:48:23 - DEBUG - Collection langchain already exists, returning existing collection.
+2025-04-25 22:48:23 - INFO - ✅ Base vectorial cargada correctamente.
+2025-04-25 22:48:23 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2025-04-25 22:48:24 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2025-04-25 22:48:29 - INFO - 🚀 Iniciando consulta...
+2025-04-25 22:48:32 - INFO - 🔍 Buscando en la base vectorial...
+2025-04-25 22:48:32 - DEBUG - Starting component PersistentLocalHnswSegment
+2025-04-25 22:48:32 - INFO - ✅ Resultados encontrados, creando prompt para LLM...
+2025-04-25 22:48:32 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-04-25 22:48:32 - DEBUG - load_verify_locations cafile='/home/m/.local/lib/python3.10/site-packages/certifi/cacert.pem'
+2025-04-25 22:48:32 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-04-25 22:48:32 - DEBUG - load_verify_locations cafile='/home/m/.local/lib/python3.10/site-packages/certifi/cacert.pem'
+2025-04-25 22:48:32 - DEBUG - connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-04-25 22:48:32 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7509f5928340>
+2025-04-25 22:48:32 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-04-25 22:48:32 - DEBUG - send_request_headers.complete
+2025-04-25 22:48:32 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-04-25 22:48:32 - DEBUG - send_request_body.complete
+2025-04-25 22:48:32 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-04-25 22:48:32 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 404, b'Not Found', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Fri, 25 Apr 2025 20:48:32 GMT'), (b'Content-Length', b'37')])
+2025-04-25 22:48:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 404 Not Found"
+2025-04-25 22:48:32 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-04-25 22:48:32 - DEBUG - receive_response_body.complete
+2025-04-25 22:48:32 - DEBUG - response_closed.started
+2025-04-25 22:48:32 - DEBUG - response_closed.complete
+2025-04-25 22:48:32 - ERROR - ❌ Error en la consulta LLM: model 'mistral' not found (status code: 404)
+2025-04-25 22:48:32 - INFO - Respuesta del modelo:
+Hubo un error procesando tu consulta.
+2025-04-25 22:48:32 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2025-04-25 22:50:58 - INFO - 🚀 Iniciando consulta...
+2025-04-25 22:51:01 - INFO - 🔍 Buscando en la base vectorial...
+2025-04-25 22:51:01 - INFO - ✅ Resultados encontrados, creando prompt para LLM...
+2025-04-25 22:51:01 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-04-25 22:51:01 - DEBUG - load_verify_locations cafile='/home/m/.local/lib/python3.10/site-packages/certifi/cacert.pem'
+2025-04-25 22:51:01 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-04-25 22:51:01 - DEBUG - load_verify_locations cafile='/home/m/.local/lib/python3.10/site-packages/certifi/cacert.pem'
+2025-04-25 22:51:01 - DEBUG - connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-04-25 22:51:01 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7509f5929390>
+2025-04-25 22:51:01 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-04-25 22:51:01 - DEBUG - send_request_headers.complete
+2025-04-25 22:51:01 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-04-25 22:51:01 - DEBUG - send_request_body.complete
+2025-04-25 22:51:01 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-04-25 22:51:15 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Fri, 25 Apr 2025 20:51:15 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-04-25 22:51:15 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-25 22:51:15 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-04-25 22:51:29 - DEBUG - receive_response_body.complete
+2025-04-25 22:51:29 - DEBUG - response_closed.started
+2025-04-25 22:51:29 - DEBUG - response_closed.complete
+2025-04-25 22:51:29 - INFO - Respuesta del modelo:
+¡Hola! ¿Cómo estás? ¿Me puedes explicar lo que necesitas?
+2025-04-25 22:52:13 - INFO - 🚀 Iniciando consulta...
+2025-04-25 22:52:23 - INFO - 🔍 Buscando en la base vectorial...
+2025-04-25 22:52:23 - INFO - ✅ Resultados encontrados, creando prompt para LLM...
+2025-04-25 22:52:23 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-04-25 22:52:23 - DEBUG - load_verify_locations cafile='/home/m/.local/lib/python3.10/site-packages/certifi/cacert.pem'
+2025-04-25 22:52:23 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-04-25 22:52:23 - DEBUG - load_verify_locations cafile='/home/m/.local/lib/python3.10/site-packages/certifi/cacert.pem'
+2025-04-25 22:52:23 - DEBUG - connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-04-25 22:52:23 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x750bb5dfa230>
+2025-04-25 22:52:23 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-04-25 22:52:23 - DEBUG - send_request_headers.complete
+2025-04-25 22:52:23 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-04-25 22:52:23 - DEBUG - send_request_body.complete
+2025-04-25 22:52:23 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-04-25 22:56:32 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Fri, 25 Apr 2025 20:56:32 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-04-25 22:56:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-25 22:56:32 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-04-25 22:58:10 - DEBUG - receive_response_body.complete
+2025-04-25 22:58:10 - DEBUG - response_closed.started
+2025-04-25 22:58:10 - DEBUG - response_closed.complete
+2025-04-25 22:58:10 - INFO - Respuesta del modelo:
+ Las preguntas que haces no está clara sobre los documentos a los que te refieres. En el texto, no hay información directa sobre documentos a los que se le pregunte. Sin embargo, en el contexto del desastre del Huracán, si estás buscando información sobre cómo proteger tus documentos o recuperarlos después de un huracán, te recomiendo asegurarte de hacer una copia de tus documentos importantes antes de la crisis y almacenarla en un lugar seguro. Si los has perdido durante el desastre, pueden existir servicios de recuperación de documentos para ayudarte en ese proceso.

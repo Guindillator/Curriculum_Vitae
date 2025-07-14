@@ -1,0 +1,198 @@
+2025-07-12 00:07:31 - DEBUG - 🧪 Query inicializada correctamente.
+2025-07-12 00:08:13 - INFO - 🚀 Iniciando consulta...
+2025-07-12 00:08:13 - INFO - 🧠 Cargando base vectorial desde: db
+2025-07-12 00:08:17 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2025-07-12 00:08:17 - DEBUG - Creating converter from 7 to 5
+2025-07-12 00:08:17 - DEBUG - Creating converter from 5 to 7
+2025-07-12 00:08:17 - DEBUG - Creating converter from 7 to 5
+2025-07-12 00:08:17 - DEBUG - Creating converter from 5 to 7
+2025-07-12 00:08:17 - INFO - Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 16.
+2025-07-12 00:08:17 - INFO - NumExpr defaulting to 16 threads.
+2025-07-12 00:08:18 - INFO - Use pytorch device_name: cuda:0
+2025-07-12 00:08:18 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-12 00:08:18 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-12 00:08:18 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 307 0
+2025-07-12 00:08:18 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/11" 200 0
+2025-07-12 00:08:18 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 307 0
+2025-07-12 00:08:18 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/11" 200 0
+2025-07-12 00:08:18 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 307 0
+2025-07-12 00:08:18 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/11" 200 0
+2025-07-12 00:08:18 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 307 0
+2025-07-12 00:08:18 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/11" 200 0
+2025-07-12 00:08:19 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 307 0
+2025-07-12 00:08:19 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/11" 200 0
+2025-07-12 00:08:19 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/11" 404 0
+2025-07-12 00:08:19 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 307 0
+2025-07-12 00:08:19 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/11" 200 0
+2025-07-12 00:08:19 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 307 0
+2025-07-12 00:08:19 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/11" 200 0
+2025-07-12 00:08:19 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6832
+2025-07-12 00:08:19 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6832
+2025-07-12 00:08:20 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-12 00:08:20 - DEBUG - Starting component System
+2025-07-12 00:08:20 - DEBUG - Starting component Posthog
+2025-07-12 00:08:20 - DEBUG - Starting component OpenTelemetryClient
+2025-07-12 00:08:20 - DEBUG - Starting component SqliteDB
+2025-07-12 00:08:20 - DEBUG - Starting component SimpleQuotaEnforcer
+2025-07-12 00:08:20 - DEBUG - Starting component SimpleRateLimitEnforcer
+2025-07-12 00:08:20 - DEBUG - Starting component LocalSegmentManager
+2025-07-12 00:08:20 - DEBUG - Starting component LocalExecutor
+2025-07-12 00:08:20 - DEBUG - Starting component SegmentAPI
+2025-07-12 00:08:20 - DEBUG - Collection langchain already exists, returning existing collection.
+2025-07-12 00:08:20 - INFO - ✅ Base vectorial cargada correctamente.
+2025-07-12 00:08:20 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2025-07-12 00:08:20 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2025-07-12 00:09:48 - INFO - 🔍 Buscando en la base vectorial...
+2025-07-12 00:09:48 - DEBUG - Starting component PersistentLocalHnswSegment
+2025-07-12 00:09:48 - INFO - ✅ Resultados encontrados, creando prompt para LLM...
+2025-07-12 00:09:48 - DEBUG - Starting new HTTP connection (1): localhost:11434
+2025-07-12 00:09:49 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2025-07-12 00:10:17 - DEBUG - http://localhost:11434 "POST /api/generate HTTP/11" 200 None
+2025-07-12 00:11:16 - INFO - Respuesta del modelo:
+1-866-438-4636 es el número directo de la Cruz Roja para informar sobre una persona perdida en la Costa de Golfo.
+Si alguien desea ofrecer materiales o servicios, debe llamar a la línea directa 1-800-440-6728 y un representante tomará sus datos para contactarlo. Los donativos pueden incluir vivienda temporal para las víctimas del desastre, vehículos, equipos o materiales de construcción, alimentos, ropa, o otras donaciones que puedan ayudar a las víctimas del Huracán Katrina. Los sitios web www.nola.com, www.nolarefugees y http://batonrouge.craigslist.org/laf/ pueden ser de ayuda para reunirse con familiares afectados por el huracán.
+2025-07-12 00:13:17 - INFO - 🔍 Buscando en la base vectorial...
+2025-07-12 00:13:17 - INFO - ✅ Resultados encontrados, creando prompt para LLM...
+2025-07-12 00:13:17 - DEBUG - Starting new HTTP connection (1): localhost:11434
+2025-07-12 00:14:40 - DEBUG - http://localhost:11434 "POST /api/generate HTTP/11" 200 None
+2025-07-12 00:15:27 - INFO - Pregunta al modelo:
+prueba 2 
+2025-07-12 00:15:27 - INFO - Respuesta del modelo:
+ La respuesta parece que falta completar la pregunta correspondiente a la sección "prueba 2". Es posible que debas especificar el tipo de pregunta o lo que estás preguntando en esta etapa del texto.
+
+Por ejemplo, si quieres saber cuál es el nombre de la persona cuya dirección se encuentra en la línea 5, podrías preguntar "¿Cuál es el nombre de la persona que vive en la calle FluG?" Si estás preguntando por la ciudad o país donde vivía esta persona, podrías preguntar "¿En qué ciudad o país se encuentra la dirección de la persona?"
+
+También puedes preguntar sobre otros detalles del texto como los colores de la casa (rojo, rosa y negro), el número de habitaciones de la casa, si la persona es dueña de su propiedad, etc.
+2025-07-12 00:16:49 - DEBUG - 🧪 Query inicializada correctamente.
+2025-07-12 00:16:51 - INFO - 🚀 Iniciando consulta...
+2025-07-12 00:16:51 - INFO - 🧠 Cargando base vectorial desde: db
+2025-07-12 00:16:54 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2025-07-12 00:16:54 - DEBUG - Creating converter from 7 to 5
+2025-07-12 00:16:54 - DEBUG - Creating converter from 5 to 7
+2025-07-12 00:16:54 - DEBUG - Creating converter from 7 to 5
+2025-07-12 00:16:54 - DEBUG - Creating converter from 5 to 7
+2025-07-12 00:16:55 - INFO - Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 16.
+2025-07-12 00:16:55 - INFO - NumExpr defaulting to 16 threads.
+2025-07-12 00:16:55 - INFO - Use pytorch device_name: cuda:0
+2025-07-12 00:16:55 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-12 00:16:55 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-12 00:16:56 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 307 0
+2025-07-12 00:16:56 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/11" 200 0
+2025-07-12 00:16:56 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 307 0
+2025-07-12 00:16:56 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/11" 200 0
+2025-07-12 00:16:56 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 307 0
+2025-07-12 00:16:56 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/11" 200 0
+2025-07-12 00:16:56 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 307 0
+2025-07-12 00:16:56 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/11" 200 0
+2025-07-12 00:16:56 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 307 0
+2025-07-12 00:16:56 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/11" 200 0
+2025-07-12 00:16:56 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/11" 404 0
+2025-07-12 00:16:56 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 307 0
+2025-07-12 00:16:56 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/11" 200 0
+2025-07-12 00:16:57 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 307 0
+2025-07-12 00:16:57 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/11" 200 0
+2025-07-12 00:16:57 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6832
+2025-07-12 00:16:57 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6832
+2025-07-12 00:16:57 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-12 00:16:57 - DEBUG - Starting component System
+2025-07-12 00:16:57 - DEBUG - Starting component Posthog
+2025-07-12 00:16:57 - DEBUG - Starting component OpenTelemetryClient
+2025-07-12 00:16:57 - DEBUG - Starting component SqliteDB
+2025-07-12 00:16:57 - DEBUG - Starting component SimpleQuotaEnforcer
+2025-07-12 00:16:57 - DEBUG - Starting component SimpleRateLimitEnforcer
+2025-07-12 00:16:57 - DEBUG - Starting component LocalSegmentManager
+2025-07-12 00:16:57 - DEBUG - Starting component LocalExecutor
+2025-07-12 00:16:57 - DEBUG - Starting component SegmentAPI
+2025-07-12 00:16:57 - DEBUG - Collection langchain already exists, returning existing collection.
+2025-07-12 00:16:57 - INFO - ✅ Base vectorial cargada correctamente.
+2025-07-12 00:16:58 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2025-07-12 00:16:58 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2025-07-12 00:17:03 - INFO - 🔍 Buscando en la base vectorial...
+2025-07-12 00:17:03 - DEBUG - Starting component PersistentLocalHnswSegment
+2025-07-12 00:17:04 - INFO - ✅ Resultados encontrados, creando prompt para LLM...
+2025-07-12 00:17:04 - DEBUG - Starting new HTTP connection (1): localhost:11434
+2025-07-12 00:17:04 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2025-07-12 00:17:29 - DEBUG - http://localhost:11434 "POST /api/generate HTTP/11" 200 None
+2025-07-12 00:18:12 - INFO - Pregunta al modelo:
+dime lo que sabes
+2025-07-12 00:18:12 - INFO - Respuesta del modelo:
+Sé que hay varias opciones para ayudar a reunir a personas perdidas o afectadas por el huracán Katrina:
+
+* La línea directa de la Cruz Roja al 1-866-GET-INFO o 1-866-438-4636, si se sabe de una persona perdida en la Costa de Golfo.
+* Varias páginas web han sido establecidas para ayudar a reunir a familiares que han sido afectados por el huracán:
+	+ www.nola.com
+	+ www.nolarefugees.org
+	+ http://batonrouge.craigslist.org/laf/
+
+También hay una opción para hacer ofertas de bienes o servicios:
+
+* Llamar a la línea directa al 1-800-440-6728, y un representante tomará su nombre y la información en cómo contactarle, así como qué tipo de bienes o servicios desea donar.
+2025-07-12 00:22:44 - DEBUG - 🧪 Query inicializada correctamente.
+2025-07-12 00:22:44 - INFO - 🚀 Iniciando consulta...
+2025-07-12 00:22:44 - INFO - 🧠 Cargando base vectorial desde: db
+2025-07-12 00:22:48 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2025-07-12 00:22:48 - DEBUG - Creating converter from 7 to 5
+2025-07-12 00:22:48 - DEBUG - Creating converter from 5 to 7
+2025-07-12 00:22:48 - DEBUG - Creating converter from 7 to 5
+2025-07-12 00:22:48 - DEBUG - Creating converter from 5 to 7
+2025-07-12 00:22:49 - INFO - Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 16.
+2025-07-12 00:22:49 - INFO - NumExpr defaulting to 16 threads.
+2025-07-12 00:22:49 - INFO - Use pytorch device_name: cuda:0
+2025-07-12 00:22:49 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-12 00:22:49 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-12 00:22:50 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 307 0
+2025-07-12 00:22:50 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/11" 200 0
+2025-07-12 00:22:50 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 307 0
+2025-07-12 00:22:50 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/11" 200 0
+2025-07-12 00:22:50 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 307 0
+2025-07-12 00:22:50 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/11" 200 0
+2025-07-12 00:22:50 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 307 0
+2025-07-12 00:22:50 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/11" 200 0
+2025-07-12 00:22:50 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 307 0
+2025-07-12 00:22:50 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/11" 200 0
+2025-07-12 00:22:51 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/11" 404 0
+2025-07-12 00:22:51 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 307 0
+2025-07-12 00:22:51 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/11" 200 0
+2025-07-12 00:22:51 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 307 0
+2025-07-12 00:22:51 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/11" 200 0
+2025-07-12 00:22:51 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6832
+2025-07-12 00:22:51 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6832
+2025-07-12 00:22:52 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-12 00:22:52 - DEBUG - Starting component System
+2025-07-12 00:22:52 - DEBUG - Starting component Posthog
+2025-07-12 00:22:52 - DEBUG - Starting component OpenTelemetryClient
+2025-07-12 00:22:52 - DEBUG - Starting component SqliteDB
+2025-07-12 00:22:52 - DEBUG - Starting component SimpleQuotaEnforcer
+2025-07-12 00:22:52 - DEBUG - Starting component SimpleRateLimitEnforcer
+2025-07-12 00:22:52 - DEBUG - Starting component LocalSegmentManager
+2025-07-12 00:22:52 - DEBUG - Starting component LocalExecutor
+2025-07-12 00:22:52 - DEBUG - Starting component SegmentAPI
+2025-07-12 00:22:52 - DEBUG - Collection langchain already exists, returning existing collection.
+2025-07-12 00:22:52 - INFO - ✅ Base vectorial cargada correctamente.
+2025-07-12 00:22:52 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2025-07-12 00:22:53 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2025-07-12 00:23:03 - INFO - 🔍 Buscando en la base vectorial...
+2025-07-12 00:23:03 - DEBUG - Starting component PersistentLocalHnswSegment
+2025-07-12 00:23:03 - INFO - ✅ Resultados encontrados, creando prompt para LLM...
+2025-07-12 00:23:03 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-07-12 00:23:03 - DEBUG - load_verify_locations cafile='/home/m/.local/lib/python3.10/site-packages/certifi/cacert.pem'
+2025-07-12 00:23:03 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-07-12 00:23:03 - DEBUG - load_verify_locations cafile='/home/m/.local/lib/python3.10/site-packages/certifi/cacert.pem'
+2025-07-12 00:23:03 - DEBUG - connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-12 00:23:03 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x76a6ec16eef0>
+2025-07-12 00:23:03 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-07-12 00:23:03 - DEBUG - send_request_headers.complete
+2025-07-12 00:23:03 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-07-12 00:23:03 - DEBUG - send_request_body.complete
+2025-07-12 00:23:03 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-07-12 00:23:03 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2025-07-12 00:23:11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Fri, 11 Jul 2025 22:23:11 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-12 00:23:11 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-12 00:23:11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-07-12 00:23:19 - DEBUG - receive_response_body.complete
+2025-07-12 00:23:19 - DEBUG - response_closed.started
+2025-07-12 00:23:19 - DEBUG - response_closed.complete
+2025-07-12 00:23:19 - INFO - Pregunta al modelo:
+que de nola.com
+2025-07-12 00:23:19 - INFO - Respuesta del modelo:
+Según el texto, www.nola.com es uno de los sitios web establecidos para ayudar a reunirse con sus familiares que fueron afectados por el huracán.

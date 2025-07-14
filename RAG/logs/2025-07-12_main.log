@@ -1,0 +1,131 @@
+2025-07-12 00:01:43 - INFO - Inicio
+
+2025-07-12 00:01:43 - INFO - 🚀 Iniciando pipeline de ingesta...
+2025-07-12 00:01:43 - INFO - 📥 Cargando PDFs desde 'data'...
+2025-07-12 00:01:43 - INFO - ✔️ 3I2DH7KNN6KICUFNT6P4MKHUAPPBJD2Y.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:01:43 - INFO - ✔️ 4F6ZJS2JPBXSPZK5FG5NMTRHS6NMWKOJ.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:01:43 - WARNING - The PDF <_io.BufferedReader name='data/2GFKZ3FSJWFKVKALUPEYHSLSHEJ3OGA6.pdf'> contains a metadata field indicating that it should not allow text extraction. Ignoring this field and proceeding. Use the check_extractable if you want to raise an error in this case
+2025-07-12 00:01:43 - INFO - ✔️ 2GFKZ3FSJWFKVKALUPEYHSLSHEJ3OGA6.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:01:45 - INFO - ✔️ 3XSJWLQUWUFRCZDJZ2RLJ6KMMDBJZG4D.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:01:45 - INFO - ✔️ 3HATKPN6TVEYUNQ6PK5MYH6VA6VX6ECE.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:01:49 - INFO - ✔️ 2Z5VOQ6G6CMR5GMVSAAXULXHXTMJPTM2.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:01:50 - INFO - ✔️ 4ADSQBDDIAH74AABB7OJ4AP5ZVHU7QIF.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:01:50 - INFO - ✔️ 2QCQAIXCPZZPZPEEBHJT4WUB5BA42DCP.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:01:50 - INFO - ✔️ 2S672A3DIW3E7MHKG25AHSCC7GP5IWSS.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:01:50 - INFO - ✔️ 3I3G2ZKLILXKCZTX77LVBWNF5IR2ZM7E.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:01:50 - INFO - ✔️ 2XP6SY3BBU24ICI4JSHCLNQKAKGVMMPG.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:01:51 - INFO - ✔️ 2XJLJAFHRTLAIWFDDAVMV2U4QJMISM4P.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:01:51 - INFO - ✔️ 3PILGMQ4BBDRSLAPZCPVAHBNX53K2NUJ.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:01:51 - INFO - ✔️ 1e8c2332a461a3a142840fa477fa907c66c35dac.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:01:51 - INFO - ✔️ 3SX4ZUITX7U6NVFXAEJBBJXEQ76IJFKV.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:01:51 - INFO - ✔️ 0a29925ccc5e6299e132a73325956a3abef6dd26.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:01:51 - INFO - ✔️ 4C5BLCGBSAKXLBL674TCFLMNISKMFTF7.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:01:51 - INFO - ✔️ 3EG2SKQ4OJ5RGGAPXC4LPRAYJJJNH2XO.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:01:54 - INFO - ✔️ 2RE7KOL5KV5FFCUG6CYUVEFF4KIUZN2V.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:01:55 - INFO - ✔️ 3OHZBJVNLM4IAL6GLY3AKUQIVCNLPJLO.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:08 - INFO - ✔️ 2G54QACZZK5MIIKK25USTLNPN66FST63.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:09 - INFO - ✔️ 3ZVA64MJREBJXFOQOIXK6WJVPBWFJF7L.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:09 - INFO - ✔️ 0e21835a42a6df2405496f62647058ff855743c1.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:09 - INFO - ✔️ 3KYS5FP4VPQMHQKSV6PY3UOXQILNMOPO.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:16 - INFO - ✔️ 4BYJ3SJ7LQLUQONSHK7CN7NJFWKW62CX.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:16 - INFO - ✔️ 2F73J4NP2YHKVISKHDIDJ7RGPDKTQZ7D.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:18 - WARNING - Cannot set gray non-stroke color because /'P1' is an invalid float value
+2025-07-12 00:02:23 - INFO - ✔️ 3KF674T52XCSSWUXJN6WRXYXLXBCQI3P.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:23 - INFO - ✔️ 2A2C2V4WI5YRDJHR26XUD4IAULIYGTMA.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:23 - WARNING - ⚠️ Error con 2UD7BSKC7GT3V7I6DK5NH5TFKJ6F3EXL.pdf usando PDFMinerLoader: safe_rgb() missing 2 required positional arguments: 'g' and 'b'
+2025-07-12 00:02:23 - INFO - 🔁 Intentando cargar con PyMuPDFLoader...
+2025-07-12 00:02:23 - INFO - ✔️ 2UD7BSKC7GT3V7I6DK5NH5TFKJ6F3EXL.pdf cargado con PyMuPDFLoader.
+2025-07-12 00:02:24 - INFO - ✔️ 3RFOUAJS2LT6ZCT3K6C2SXFMNCJHTP5Q.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:24 - INFO - ✔️ 2YS3ALM6OTD5ENWN4Z5LOBWG735756DX.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:24 - INFO - ✔️ 1dcf57a5007b56254583423ba31107d22459bccf.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:25 - INFO - ✔️ 3P5D3UKXU2R6I2TK4OJSLL6LGIQJ4NY5.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:26 - INFO - ✔️ 2a85b52768ea5761b773be49b09d15f0b95415b0.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:26 - INFO - ✔️ 3E6NFFOKDMQM3UXDKS73LAJGQXBVDXPE.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:26 - INFO - ✔️ 2SFC5QHEHUKZAZANWGTNYNCLR6KHKDS2.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:26 - WARNING - Cannot set gray non-stroke color because /'P1' is an invalid float value
+2025-07-12 00:02:26 - WARNING - Cannot set gray non-stroke color because /'P2' is an invalid float value
+2025-07-12 00:02:26 - WARNING - Cannot set gray non-stroke color because /'P3' is an invalid float value
+2025-07-12 00:02:26 - WARNING - Cannot set gray non-stroke color because /'P4' is an invalid float value
+2025-07-12 00:02:26 - WARNING - Cannot set gray non-stroke color because /'P5' is an invalid float value
+2025-07-12 00:02:26 - WARNING - Cannot set gray non-stroke color because /'P6' is an invalid float value
+2025-07-12 00:02:26 - WARNING - Cannot set gray non-stroke color because /'P1' is an invalid float value
+2025-07-12 00:02:26 - WARNING - Cannot set gray non-stroke color because /'P2' is an invalid float value
+2025-07-12 00:02:26 - WARNING - Cannot set gray non-stroke color because /'P3' is an invalid float value
+2025-07-12 00:02:26 - WARNING - Cannot set gray non-stroke color because /'P4' is an invalid float value
+2025-07-12 00:02:26 - WARNING - Cannot set gray non-stroke color because /'P5' is an invalid float value
+2025-07-12 00:02:26 - WARNING - Cannot set gray non-stroke color because /'P6' is an invalid float value
+2025-07-12 00:02:26 - WARNING - Cannot set gray non-stroke color because /'P7' is an invalid float value
+2025-07-12 00:02:26 - WARNING - Cannot set gray non-stroke color because /'P8' is an invalid float value
+2025-07-12 00:02:26 - WARNING - Cannot set gray non-stroke color because /'P3' is an invalid float value
+2025-07-12 00:02:26 - WARNING - Cannot set gray non-stroke color because /'P2' is an invalid float value
+2025-07-12 00:02:26 - WARNING - Cannot set gray non-stroke color because /'P9' is an invalid float value
+2025-07-12 00:02:26 - WARNING - Cannot set gray non-stroke color because /'P10' is an invalid float value
+2025-07-12 00:02:26 - WARNING - Cannot set gray non-stroke color because /'P11' is an invalid float value
+2025-07-12 00:02:26 - WARNING - Cannot set gray non-stroke color because /'P5' is an invalid float value
+2025-07-12 00:02:30 - INFO - ✔️ 3WVRGDKMXZRPVBBNRYOLXY3J3VIZROXI.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:30 - INFO - ✔️ 2EDEPZ4VHTLPTWSZR6FAVUJ3B2ZVSIPS.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:30 - INFO - ✔️ 2LVOKCURIEQKLK43I6T7QLYYQX3RQUXX.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:30 - INFO - ✔️ 4GJOQXDXU2XKJOU5NUAAVWW7LS4LSYA7.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:30 - INFO - ✔️ 4CWINULHRRVWF33LXZE4U5EEHETC2SI6.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:30 - INFO - ✔️ 3IFL3YAHHYK5PMUEVWZZ2PHZ7TYPPTET.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:02:31 - INFO - ✔️ 2REYVBYLIEUNFBZ5FULJCPTJCZHNOENV.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:03:06 - INFO - ✔️ 2FDPTMT2NZDE6RIJSZZXGBMD7LYL7YHV.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:03:06 - INFO - ✔️ 2WE4HZPD57KVPL4RQKCB4PUG42SQ2RMJ.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:03:06 - INFO - ✔️ 2ZJG56HD3YEZGEQZL4RFOYNIMTZISHDX.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:03:06 - INFO - ✔️ 2ED27NR7CISW7J4PHXXBZ6OFPVDFHMFB.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:03:07 - INFO - ✔️ 3fd6a0981cec7cf21e133249fea7e0e4474ec88d.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:03:07 - INFO - ✔️ 2KH4X5DOMVDC44GAIAFOCYEKJMXGQH4T.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:03:07 - INFO - ✔️ 3G2C6NNZ42WCE3GQ2SREVI2FQIJMQTVT.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:03:07 - INFO - ✔️ 3HYJT3CPUFRXVQSY3IJIK5ERD4XWBDUQ.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:03:08 - INFO - ✔️ 2c143c1675c174d0317c3a1f67b68b2b60047467.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:03:08 - INFO - ✔️ 3KT2OE6FWFEQPKT754Z3YHJQ3XTLPQZS.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:03:08 - INFO - ✔️ 2QWDF5JK4N7WQ4NQRZRLF4CYOUF32WTR.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:03:08 - INFO - ✔️ 2KQDEYIMQDVT2DUARRCJV5HEUYY2HO7H.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:03:08 - INFO - ✔️ 2KPPNYIT75S3H25JKEWTMQ7WRNCCTMJM.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:03:08 - INFO - ✔️ 4ANUUHOJ7LTWU4PYON2VXJMPPUGDYWPD.pdf cargado con 1 páginas usando PDFMinerLoader.
+2025-07-12 00:03:08 - INFO - ✂️ Dividiendo documentos en chunks...
+2025-07-12 00:03:08 - INFO - ✅ Total de chunks: 5599
+2025-07-12 00:03:08 - INFO - 🔍 Cargando modelo de embeddings: sentence-transformers/all-MiniLM-L6-v2
+2025-07-12 00:03:11 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2025-07-12 00:03:11 - DEBUG - Creating converter from 7 to 5
+2025-07-12 00:03:11 - DEBUG - Creating converter from 5 to 7
+2025-07-12 00:03:11 - DEBUG - Creating converter from 7 to 5
+2025-07-12 00:03:11 - DEBUG - Creating converter from 5 to 7
+2025-07-12 00:03:11 - INFO - Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 16.
+2025-07-12 00:03:11 - INFO - NumExpr defaulting to 16 threads.
+2025-07-12 00:03:13 - INFO - Use pytorch device_name: cuda:0
+2025-07-12 00:03:13 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-12 00:03:13 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-12 00:03:14 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 307 0
+2025-07-12 00:03:14 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/11" 200 0
+2025-07-12 00:03:14 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 307 0
+2025-07-12 00:03:14 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/11" 200 0
+2025-07-12 00:03:14 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 307 0
+2025-07-12 00:03:14 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/11" 200 0
+2025-07-12 00:03:14 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 307 0
+2025-07-12 00:03:14 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/11" 200 0
+2025-07-12 00:03:14 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 307 0
+2025-07-12 00:03:14 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/11" 200 0
+2025-07-12 00:03:15 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/11" 404 0
+2025-07-12 00:03:15 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 307 0
+2025-07-12 00:03:15 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/11" 200 0
+2025-07-12 00:03:15 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 307 0
+2025-07-12 00:03:15 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/11" 200 0
+2025-07-12 00:03:15 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6832
+2025-07-12 00:03:15 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6832
+2025-07-12 00:03:15 - INFO - 🧠 Creando base vectorial en: db
+2025-07-12 00:03:16 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-12 00:03:16 - DEBUG - Starting component System
+2025-07-12 00:03:16 - DEBUG - Starting component Posthog
+2025-07-12 00:03:16 - DEBUG - Starting component OpenTelemetryClient
+2025-07-12 00:03:16 - DEBUG - Starting component SqliteDB
+2025-07-12 00:03:16 - DEBUG - Starting component SimpleQuotaEnforcer
+2025-07-12 00:03:16 - DEBUG - Starting component SimpleRateLimitEnforcer
+2025-07-12 00:03:16 - DEBUG - Starting component LocalSegmentManager
+2025-07-12 00:03:16 - DEBUG - Starting component LocalExecutor
+2025-07-12 00:03:16 - DEBUG - Starting component SegmentAPI
+2025-07-12 00:03:17 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2025-07-12 00:03:17 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2025-07-12 00:03:22 - DEBUG - Starting component PersistentLocalHnswSegment
+2025-07-12 00:03:25 - INFO - ✅ Base vectorial creada y guardada.
+2025-07-12 00:03:25 - INFO - 🎉 ¡Ingesta completada correctamente!

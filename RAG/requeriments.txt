@@ -1,0 +1,10 @@
+langchain
+chromadb
+sentence-transformers
+PyMuPDF
+tqdm
+pdfminer
+pdfminer.six
+langchain-huggingface
+langchain-chroma
+langchain-ollama
